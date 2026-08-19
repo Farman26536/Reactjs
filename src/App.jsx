@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>Welcome to React</h1>
+      <h1>Welcome to my page</h1>
 
       <p>This is my first React application.</p>
 
