@@ -8,7 +8,7 @@ function App() {
     <div className="container">
       <h1>Welcome to my page</h1>
 
-      <p>This is my first React application.</p>
+      <p>This is my first page.</p>
 
       <h2>Count: {count}</h2>
 
